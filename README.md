@@ -15,7 +15,7 @@ launch command prompt, run below commands:
 Google App script : 
 1. Have Gmail account
 2. Have access to Google Drive
-3. go to https://script.google.com, 
+3. Go to https://script.google.com
 4. Create a new project, copy code from code.gs in this repo to your code.gs
 5. Enable Google Sheets API by clicking on the plus button next to the Services text on the left side. 
 6. Run the job
