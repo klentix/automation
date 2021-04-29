@@ -18,15 +18,13 @@ Google App script :
 3. Go to https://script.google.com
 4. Create a new project, copy code from code.gs in this repo to your code.gs
 5. Enable Google Sheets API by clicking on the plus button next to the Services text on the left side. 
-6. Run the job
+
  
  
 ## Running the application
-If you followed the installation steps correctly, the commands below should scrape IMDB and upload a Google Sheet containing the top5 results 
-
-``` 
-python main.py
-```
+run main.py 
+the result of top5 cast will be uploaded in Google Sheet (https://docs.google.com/spreadsheets/d/1E7gRDDIrXGWiWPi84XRBnTlXS74PmUoSOP6jeeF_vMQ/edit#gid=2059765788)
+built-in with this Google Sheet is Code.js,  once the trigger is set up, a form will be created and email notification will be sent to the runner's email and as well as my email. 
 
 
 ## Setting up the automation
